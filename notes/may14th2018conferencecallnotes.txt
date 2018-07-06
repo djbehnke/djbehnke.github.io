@@ -1,0 +1,273 @@
+[May 14th, 2018]
+[Blockchain Technology Club]
+[Conference call with Consensys rep, who's learning about RIT and the blockchain scene here.]
+[Ethan Witherington taking notes, I'm on the phone, not in the room with Dan and Shrada]
+[Names are not accurate, just wrote what I heard.]
+Joe joins
+Ethan Joins
+Hector Joins
+Co-founder of ethereum will be visiting RIT, someone is coming early to do research stuff?
+Ryan joins
+Female voice joins
+Candice and Shrada here at RIT
+-Name
+-Major
+-Year
+Joe netti, CS, econ, 3.5?
+Ryan
+-Second year game dev
+Hector - 3rd year comp math
+Ethan - csec, just finished freshman year
+Shrada - nice to meet you
+- researched yall a few months ago
+- here we are
+- work at company called consensus
+- https://new.consensys.net
+- What are ya'll doing at RIT?
+- Looking at sponsering some stuff in the fall
+Joe
+- Started club last spring
+- meetings every week
+- weekly meetings, privacy, basics, etc, general stuff
+- more specific second semester
+- most interesting in first semester
+-- invited lawyer on int prop
+-- he did research on protecting stuff
+- Fall semester 2017
+-- Privacy, Tor, btc script, demo on making daap,
+-- crypto profesor showed basics of signatures
+-- Hack nights on Friday Nights
+--- 4 to 8 people
+--- Just talking
+--- work on some projects, trading bots.
+Shrada
+- who was crypto prof?
+Hector
+- Dr (something)
+- When joe went on co-op, I became pres.
+- Spring semester
+-- A few issues related to paperwork
+-- Delays in starting weekly meetings, 
+-- Pretty large decline in membership
+-- Kevin and chris had to drop out of the club
+-- Meetings
+--- covered a range of topics
+--- A few general presentations
+--- Wallets, bcash, ye.
+- Ryan tell about your project
+Ryan
+- started work on blockVote
+- not published
+- blockchain based voting algorithm
+Shrada - how'd it go?
+Ryan - it went
+Shrada - did you do that on your own time?
+Ryan - on own time - no courses related in game dev
+Hector
+- Wanted to show some broader applications
+-- Ryan did a good job of that
+- Guest speaker
+-- One or Dr. Somethings's grad students
+--- gave a talk about wallet design
+--- Specifically about a system for generating multiple wallets based on a single seed
+--- But in a more secure way?
+--- Pretty technical
+--- Herarchical deterministic wallets
+- Membership was only really low in the middle,
+- attendance was better towards the end
+- Also had a local HS student show up
+Shrada - how did he find out?
+Hector
+- He did a google for local blockchain groups
+- Time as president challenging, but rewarding.
+Shrada
+- Always a learning experience
+Ethan
+- I say a bunch of stuff, probably about the website.
+- Can't write and talk at same time :\
+Hector
+- Website not functional for past year
+- Webstie very important
+- It was one of the issues we faced, not having this information available
+Shrada
+- At least what's on there worked
+- That's how I found you guys
+- I'm here to talk about a few things
+- Events
+-- Inclusive as you can
+-- You can reach a lot of people, and you should.
+-- On that website, record/livestream, archive!
+-- I love that you combined the lawyer talk about IP and BlockChain
+- Blockchain applies to every industry
+-- Bring in people from all kinds of industries
+- You'll clearly have fluctuation of members
+-- Do they know about it
+-- Regularity of meetings
+--- Recording and streaming / ARCHIVES! will help a lot
+- I'm very interested in this club
+- I'm passionate about BlockCHain
+-- Crypto currency not the only thing
+Shrada's friend
+- New guy introduced
+Dan
+- I'm the treasurer now
+- Tried to organize the hackathon
+What was hackathon like?
+Dan
+- better than a normal meeting
+- lackluster
+- I think we can do better this year
+Shrada
+- This is obviously for Blockchain people
+- How are you getting new people
+Joe
+- It's a challenge to get new people
+- Gotta get people that have never heard of it before
+- Gotta hit newbies and vets
+- Got 100 emails during club fair
+- 30->45 people first two meetings
+-- Blockchain basics those first few meetings
+Hector
+- Outreach
+- Posters
+-- Emphasize that there are many different things
+-- Open to anybody
+Shrada
+- More devs or non devs?
+Joe
+- We get some devs, most people are new
+Shrada - Gender ratio?
+Joe - It's hard
+Shrada
+- This is an in general problem
+- across the industry, it's male heavy
+- Have a female join the eBoard?
+Hector
+- Kevin's Girl?
+- Graduated already :(
+Ryan
+- Any tips on that front? Outreach?
+Shrada
+- I was gonna ask what I could help you with
+- Broadcast the work that you're doing
+- Put the basics on your website
+- Go to other events, be speakers there
+-- People might not have any idea you exist
+- Engaging people is Key
+Shrada's Friend
+- RIT was selected (Not announced yet)
+-- as regional launch site for Girl Scouts
+-- Three CSEC badges
+-- ages 5 to 12, 100+ on campus in October
+- Setup a k-12 presentation about blockchain targeted to them?
+- Once I have more specifics I'll let you know
+Hector
+- I have a lot of friends/contacts in Sparsa, RC3, merging
+- They have interest groups
+-- talking about forming a decentralized interest group
+--- Tie in with BTC club
+- I want to make more cross-club and interdisceplenary connections
+Shrada
+- RIT is awesome because of the cross-club stuff
+- Cat club connected to meuseam [Said as example of above, no idea what this means]
+Joe
+- A couple quesitons
+- Is joseph blubin coming to RIT? [name?]
+Shrada - Doesn't know about RIT
+- He's really busy
+- He travels all over the world, there's a need for his expertise
+- I'd love for him to come this fall
+- Hopefully if I let him know early on
+- Consensys
+-- Blockchain venture studios
+-- Created a place for people to come build on top of ethereum/ daaps
+- Trying to figure out if his event would be a hackathon or a talk or a what
+- In this time, really work on recruiting
+-- Get people interested
+-- Get your social media and website ON POINT
+-- So that people really know
+Joe
+- Email list has 40+% open rate
+Shrada - Start a youtube channel
+- Start livestreaming your talks
+- whatever it is
+Joe - good idea
+Dan - good idea
+Shrada
+- Partner with local HS if possible
+- Bring some of them on campus,
+-- Go to their school
+Dan
+- Thinking about intercollegiate
+- Girlfriend in BTC at brockport with HS student
+- That's a great oppertunity
+Shrada
+- one question
+- I remember being a student
+- How much do you follow through?
+- Website timeline?
+Ethan
+- I say some stuff
+- Website will come up eventually
+Joe
+- Blockhack guy was really busy
+- We should do a hackathon again
+- If we do a hackathon, we need
+-- Funding
+--- That's hard
+--- Any way you could help with that?
+Shrada
+- Just here to open the conversation
+- I want to host a few events
+- Yeah I can do some stuff here
+Joe - Hector, any updated slides on ??
+Hector - I've got everything I made, and the google drive?
+- Should probably make an archive
+- I'll throw all my stuff up there
+Shrada
+- The next step
+- When I go speak to Joe
+-- I'll talk about what you're up to
+-- I'll talk to our university relations department
+- How many people in club?
+Hectore
+- Campus Groups isn't greatest indicator
+Joe
+- Changes from start to end of year
+- 30-40 -> to 10? to 15... 10
+- That's whoever came each meeting
+- Some would call once a month
+- Active? 20-25???
+Hectore - Best estimate about 25, 29 official
+Shrada
+- Gotta keep track of what value your club brings
+- I love data
+- Final Question - What do you want your club to be known for?
+Joe
+- Two things
+-- Educating people about blockchain and it's pottential
+--- Conecptual
+--- Basic of development
+-- Expiremental research
+Hector
+- I share joe's vision
+- Provide learning resources so people can understand it
+- Bringing more concrete connections so people can reasearch together, build projects
+- a space for learning and collaboration
+Shrada
+- Your website will be important for this
+- How to do stuff
+- Basics information
+- This content, 
+Joe - good feedback, 
+Shrada
+- Let's keep in touch
+Joe
+
+[Meeting Ends]
+
+[Just Ethan and Hector]
+Ethan
+- Yo hector we should partner with brickhack this year rather than try to make a whole new thing
+Hector
+- Good idea, we'll have a meeting soon, bring that up.

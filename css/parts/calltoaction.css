@@ -1,0 +1,11 @@
+/* Call to Action */
+#cta{
+    color: white;
+    padding: 2em;
+    background-color: #333;
+    text-align: center;
+}
+
+#cta .h1 .p{
+  color: white;
+}

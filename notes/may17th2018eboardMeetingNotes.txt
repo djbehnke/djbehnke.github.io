@@ -1,0 +1,388 @@
+[Begin Metadata]
+
+Thursday May 17th, 2018. 1PM to 2:45 PM
+Meeting over Discord
+Sergio/Dan and Another person from a conference room at RIT
+Ethan from home, with microphone troubles at first
+Ryan from home
+
+TL;DR:TL;DR:TL;DR:
+Discord
+
+(TL;DR) was TL; DR:
+Sergio's on DNS
+Ethan's on Website
+Eboard needs Financial Certification
+Move to Discord
+
+TL;DR:
+
+BTCRIT has two goals
+- Education		[Tell people about Blockchain Technology]
+- Implementation	[Build stuff with Blockchain Technology]
+
+We're switching primary communication methods
+- from Matrix and Riot.IM to Discord
+-- For assorted reasons.
+The weekly emails will be kept, they were awesome.
+
+Website V1 is up and stable, there's some talk about V2.
+Sergio will be working with Joe on our DNS setup.
+- Cloudflare Team
+- Easily re-directable when we inevitably move servers
+Some Ideas for content on the website
+
+BlockHack
+- This could be it's own thing, though we seemed to agree against this.
+- We'll probably partner with BrickHack
+-- Have a presentation, Run a booth
+-- Work with consensys to sponser a Blockchain Prize
+-- If we partner with BrickHack, We'll host a workshop
+--- Before BrickHack
+--- Educate Teams about how to attack the Blockchain Prize
+
+There's also some discussion about Club Management.
+- Disclaimers that need to go on the website.
+- Eboard needs Financial Certification
+- We need a system to track attendance
+
+[End Metadata]
+
+Dan
+- I needed to find the matrix
+-- The website helped with that
+- What's our core goal?
+-- Increase membership
+-- Increase engagement
+-- Spread blockchain
+- Kevin's business
+-- Not saying it wouldn't happen without us
+-- Just saying we as a club help make things happen
+Sergio
+- Yeah I think the club helped kevin
+- Goal = education + implementation
+- Who's on BlockVote
+Ryan - Me
+Sergio
+- Status?
+Ryan
+- Whitepaper, in development.
+Sergio
+- I like it, we can put that on the website
+- I like how it was mentioned to Shrada
+Dan
+- It came up
+- First meeting had a lot of people
+Ethan - My microphone kinda works
+Others - Just use the app, we can't see you
+Sergio
+- Blockvote, other projects, good, website them.
+- Everyone get financially certified
+Ryan
+- Is that every year?
+Dan
+- Every Fiscal Year
+- Sergio has all the answers if ya'll need help
+Sergio
+- Ethan get certified
+Ethan
+- I'm on it
+Someone - Who needs to be certified?
+Someone - All eboard members
+- Joe will be fine
+- Who's on Eboard?
+[General Talk about Who needs to be Certified]
+Ryan
+[Copypasted from Discord]
+- BTC Eboard:
+	Ethan Witherington
+	Daniel Behnke
+	Jack Corrigan
+	Sergio Zygmunt
+	Hector Escobedo
+	Ryan Volz
+	Joseph Netti
+[discuss financial certs]
+[Something about funding]
+Dan
+- What do we need funding for
+Sergio
+- Requesting the Auditorium, other stuff
+Dan
+- Block Hack is a Major Thing
+Ethan
+- Let's merge with brickhack
+-- [I list some reasons]
+Sergio
+- We need three events to be a club
+- Let's do both brickhack /and/ our own thing?
+Dan
+- Running a hackathon is a lot of work
+- Partnering with Brickhack would be a good idea
+Sergio
+- Make blockhack more informal?
+Dan
+- We need to start tracking who comes to Events // TODO
+- Shrada was asking us about attendance
+Sergio
+- RC3 uses a signup thing
+- signin.rc3.com or something
+Ethan
+- That wouldn't be hard to implement
+Sergio
+- Yeah
+Dan
+- How do we feel about the website
+[General talk about the hamster logo]
+[Talk about RIT name in club name: BTC vs BTCRIT vs BTC @ RIT]
+Sergio
+- We should get a cloudflare Team account
+[General Agreement]
+Sergio
+- We should put the logo on the github organization
+Ryan - Done, should appear within 24 hours
+- There's this PDF right here
+-- It shows what our website has to have
+[PDF Link: https://www.rit.edu/marketing/sites/rit.edu.marketing/files/docs/identity_manual.pdf ]
+Sergio
+- I'd like to see if we can get a @rit.edu email
+[rit.edu domain name at all?]
+- We have to put these notices at the bottom
+- There's a club manual
+-- We should have that
+- EAF forms are really important
+[EAF forms become the inside joke of this meeting, mentioned several times, not included here.]
+Dan
+- Have we spent any money as a club?
+Ryan
+- Not that I know of
+[General: Do we have $$?? I don't think so]
+Ryan
+- I though we werent allowed to have $?
+Ethan
+- We can have USD, but not BTC
+Sergio
+- I put in a request for $1000 per year
+Dan
+- Shrada can get us unlimited $ if we make it worth it to her
+- We need to meet her goals
+Sergio
+- Yeah, more members, Club fair is really important
+Dan
+- Let's move the club fair up on our priority list
+- Who has experience?
+[Lots of us went, nobody ran something]
+[Is there a spring club fair]
+Sergio
+- I requested a place with outlets/power
+-- for "showing Demos"
+Dan
+- We could give away Vertcoin lol
+Ryan
+- Two years ago when we were starting the club
+-- We should bring back RITcoin
+[Ethan posts link to Destler Dubloons]
+Dan
+- We should make Munson Money
+Sergio
+- Let's get people involved
+Dan
+- I think that's a great idea
+- Instagram, Tinder, Grindr, for ritcoin /s
+- If we wanna do BlockHack, we gotta have stuff
+-- Tutorials?
+Sergio
+- Notes from last meeting say "Crypto Prof"
+Dan
+- {Ratazowski} [Idk how to spell that, that's what it sounds like though]
+- Strout is our advisor
+-- Part of the CS department
+Ethan
+- He's very chill, I had him for CSAPX
+Dan
+- Aight Ethan and Joe are our contacts for Strout
+Sergio
+- We need approval for things via EAF form
+Dan
+- What are we gonna do
+Sergio
+- Use the conference room, food
+[Dan and sergio argue about Conference room infrastructure]
+[Dan and Sergio argue about hackathon administration]
+Dan
+- What makes a hackathon fun to go to
+[General: Free food, prizes, activities, presentations]
+[Sergio planning BlockHack on the whiteboard]
+[Sergio and Dan discuss Datafest?]
+Ethan
+- We should piggyback on BrickHack
+-- Have a workshop before hand on Blockchain
+-- Run a table at the actual event
+-- Work with consensys to sponser a Prize to the best blockchain project
+Ryan
+- I know some eboard on Brickhack
+Ethan
+- A club event could be a crashcourse before BrickHack
+[General Off-Topic for a second here, I was messing with my mic]
+Dan
+- Totorial is interactive
+- Presentations are a good idea
+Sergio
+- DEFCON?
+-- It's a conference, but with interactive components
+-- That could be a model to go off of before BrickHack
+-- We can host a workshop or two before BrickHack
+Dan
+- I think that'd work
+Sergio
+- Villages, Broad Topics per Workshop
+- We need an EAF form
+Dan
+- Oh no an EAF form
+- Thought's yall?
+Sergio
+[something, didn't catch it, microphone issues]
+Ethan
+- I'm thinking about BrickHack
+- Website V2
+- Meetings are an Event
+- Hack Nights are an event
+- Workshop pre-BrickHack is an event
+-- That's the three event requirement met
+-- We'll have no problem running events
+Sergio
+- Thoughts about merging hack night and meetings?
+[
+	General disagreement
+	keep hacknight informal and separate,
+	although something interactive during
+	meetings wouldn't be bad at all.
+]
+Dan
+- Website V1 looks really good
+- Getting the DNS setup is a good idea // TODO
+Sergio
+- We should do cloudflare
+Ryan
+- We can apply for RIT hosting
+Sergio
+- RIT's hosting is not that great
+[Discussing Web Hosting]
+Someone - Getting AWS credit would be awesome
+[Fiddling with Sergio's Microphone]
+[AWS Credit would be great]
+[We should get a CMS going]
+Sergio
+- I am going to
+--- Get an RIT Email for the club
+--- Work with Joe on our DNS situation
+- We have a confirmed space for the club fiar
+- we get our budget in August
+Dan
+- We should right now make a list of things
+-- What to do
+- Priority One?
+- Communication
+
+[All of us discuss assorted communication methods]
+
+We've decided on Discord
+- Free
+- Easier to use than Matrix
+- More widely used than Matrix
+- Channels and Settings.
+
+We've decided the weekly emails were awesome
+- We are going to keep them
+-- and try to send them more than an hour before meetings
+
+[Some talk about the room that
+the on-campus people are in]
+
+Dan
+- We've settled communication
+- Website is part of that
+- Current setup is pretty good
+Sergio
+- Ethan I'm going to make a Discord Invite link
+-- Please put that on the website
+Ethan
+- I'll put both links on there
+- I'll remove the matrix link in a month or two
+Dan
+- Is anyone taking Notes
+Ethan - Yep [Here they are lol]
+Dan
+- Let's be team friendly
+- Let's keep the notes in one place
+Sergio
+- Send em to me, [Serg is Secretary]
+Dan
+- Communication
+- Website
+- Hackathon
+- Those are our main things
+[More talk about the room]
+[Reserve this room? Another one?]
+[Talking about room approval process]
+Dan
+- I'm out of ideas, motivation
+- what else to talk about
+Sergio
+- Another meeting before august
+Ethan
+- What for V2 of the website
+Ryan
+- Recording Meetings, Livestream
+Sergio
+- Transparency Section
+-- Meetings
+-- Financial Reports
+-- Minutes of Eboard Meetings
+Dan
+- Weekly meeting notes
+- Blockchain General Notes
+- I like the local business thing
+- Projects that we're working on // TODO
+- Kevin's Business
+- Joe's co-op
+- success of the club
+Ryan
+- Do we have a guy on Bitcoin Unlimited?
+Dan
+- Jason! [Guy on bitcoin unlimited team]
+- Also people's Trading Bots and Such // TODO
+Female [I'm sorry idk her name]
+- Pictures with People
+Ethan
+- Let's avoid a "Meet the Team" section
+Sergio
+- It makes it more personal
+Dan
+- Putting a Face to a Name
+Ryan
+- Maybe not a linkedin link?
+- That's an "I want a Job" thing
+Ethan
+- Projects and accomplishments
+- Maybe not Linkedin?
+Dan/Sergio
+- Maybe Linkedin, idk
+[We lost Ryan. Disconnected. Godspeed, sir.]
+Sergio
+- I'll send out...
+- I'll call it the end of the meeting here
+[Sergio/Dan/Female [I'm very sorry, I don't know her name] disconnect]
+
+
+
+
+
+
+
+
+
+
+
+
+
