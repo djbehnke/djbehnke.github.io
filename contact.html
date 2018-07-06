@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>DJBehnke - Home</title>
+    <link rel="stylesheet" href="./css/master.css" title="master">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <!-- Title and Nav section -->
+    <div style="topnav" class="topnav" id="myTopnav">
+        <a href="index.html">Home</a>
+        <a href="resume.html">Resume</a>
+        <a href="" id="active">Contact</a>
+        <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+        <div id="header">Daniel Jacob Behnke</div>
+    </div>
+    <script>
+        $('a').embedly({
+            display: function (obj) {
+                // Overwrite the default display.
+                if (obj.type === 'video' || obj.type === 'rich') {
+                    // Figure out the percent ratio for the padding. This is (height/width) * 100
+                    var ratio = ((obj.height / obj.width) * 99).toPrecision(4) + '%'
+
+                    // Wrap the embed in a responsive object div. See the CSS here!
+                    var div = $('<div class="pdf">').css({
+                        paddingBottom: ratio
+                    });
+
+                    // Add the embed to the div.
+                    div.html(obj.html);
+
+                    // Replace the element with the div.
+                    $(this).replaceWith(div);
+                }
+            }
+        });
+
+        function myFunction() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+                x.className += " responsive";
+            } else {
+                x.className = "topnav";
+            }
+        }
+    </script>
+    <!-- Splash Section -->
+    <div id="pdf">
+        <iframe src="resume.pdf" scale="tofit" />
+    </div>
+    <!-- Contact Box -->
+    <div id="contact">
+        <a href="mailto:djbehnke.mail@gmail.com">
+            <img src="./images/email.png" alt="Email">
+        </a>
+    </div>
+    <!-- Footer -->
+    <footer>
+        <div class="notwide">
+            <p>
+                &copy; Daniel Jacob Behnke | 2018
+            </p>
+        </div>
+    </footer>
+</body>
+
+</html>
+
+<!--
+<a href="https://riot.im/app/#/room/#btcrit:matrix.org">
+ -->

@@ -1,3 +1,3 @@
-# [djbehnke.github.io/btcrit.github.io/](https://djbehnke.github.io/btcrit.github.io/ "Link")
+# [djbehnke.github.io](https://djbehnke.github.io "Link")
 
-This is my development version of the BTCRIT website.
+Personal Website. Under Development
