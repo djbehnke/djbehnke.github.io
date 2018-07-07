@@ -1,2 +1,4 @@
 *.exe
 makemaster/
+*.py
+css/parts/

@@ -3,12 +3,12 @@
     z-index: -1;
     padding: 8em 0;
     color: white;
-    background-image: url("../images/cover-alt.jpg");
-    background-position: relative;
+    background-image: url("images/cover-alt.jpg");
+    /**background-position: relative;
     position: relative;
     background-repeat: repeat;
     background-attachment: fixed;
-    background-size: 200% 200%;
+    background-size: 200% 200%;**/
 }
 
 #lastmeeting a{

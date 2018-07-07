@@ -1,5 +1,5 @@
 /*This file was created automatically with the makeMaster.py script.
-Time of creation: 2018-06-22 21:06:16.550230*/
+Time of creation: 2018-07-06 20:46:44.817789*/
 
 /* !!! Begin File calltoaction.css !!! */
 
@@ -13,22 +13,6 @@ Time of creation: 2018-06-22 21:06:16.550230*/
 
 #cta .h1 .p{
   color: white;
-}
-
-/* !!! Begin File contact.css !!! */
-
-/* Contact Box */
-#contact {
-    position: fixed;
-    bottom: 0em;
-    left: 0;
-    width: 2em;
-    background-color: #fff;
-}
-
-#contact img{
-  width:2em;
-  height:2em;
 }
 
 /* !!! Begin File content.css !!! */
@@ -53,59 +37,6 @@ Time of creation: 2018-06-22 21:06:16.550230*/
 
 
 
-/* !!! Begin File footer.css !!! */
-
-/* Footer */
-footer{
-    color: white;
-    background-color: #513127;
-    padding: 0em 2em;
-    text-align: center;
-}
-
-
-/* !!! Begin File generic.css !!! */
-
-/* Generics */
-
-body{
-    padding: 0;
-    margin: 0;
-    background-color: #513127;
-    font-family: sans-serif;
-    
-}
-section{
-    padding: 1em;
-}
-.notwide{
-    max-width: 800px;
-    margin: 0 auto;
-}
-.twocol{
-    display: flex;
-    align-items: center;
-}
-.column{
-    flex: 50%;
-}
-
-/* Link Colors */
-a {  }
-a:link { color:#F36E21; }
-a:visited { color:#F36E21;  }
-a:hover { color:#F36E21; font-weight:bold;  }
-a:active { color:#F36E21; }
-
-@media (max-width:600px) {
-    .twocol{
-        flex-direction: column;
-    }
-    top ul     { display: none; }
-    top active { display: inline-block; }
-    
-}
-
 /* !!! Begin File local.css !!! */
 
 /* Rochester Blockchain Scene */
@@ -114,33 +45,6 @@ a:active { color:#F36E21; }
     background-color: #FFF;
 }
 
-/* !!! Begin File pdf.css !!! */
-
-#pdf{
-    height: 90%;
-    z-index: -1;
-    color: white;
-    background-image: url("../images/cover-alt.jpg");
-    background-attachment: fixed;
-    background-size: 200% 200%;
-    padding-top: 10%;
-    
-    position: relative;
-    padding-bottom: 100%;
-    height: 0;
-    margin: 10px 0;
-    overflow: hidden;
-}
-
-#pdf iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-
 /* !!! Begin File splash.css !!! */
 
 /* Splash Image */
@@ -148,12 +52,12 @@ a:active { color:#F36E21; }
     z-index: -1;
     padding: 8em 0;
     color: white;
-    background-image: url("../images/cover-alt.jpg");
-    background-position: relative;
+    background-image: url("images/cover-alt.jpg");
+    /**background-position: relative;
     position: relative;
     background-repeat: repeat;
     background-attachment: fixed;
-    background-size: 200% 200%;
+    background-size: 200% 200%;**/
 }
 
 #lastmeeting a{
@@ -328,4 +232,82 @@ a:active { color:#F36E21; }
   #header{
     display: none;
   }
+}
+
+/* !!! Begin File generic.css !!! */
+
+/* Generics */
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #513127;
+    font-family: sans-serif;
+    
+}
+section{
+    padding: 1em;
+}
+.notwide{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.twocol{
+    display: flex;
+    align-items: center;
+}
+.column{
+    flex: 50%;
+}
+
+/* Link Colors */
+a {  }
+a:link { color:#F36E21; }
+a:visited { color:#F36E21;  }
+a:hover { color:#F36E21; font-weight:bold;  }
+a:active { color:#F36E21; }
+
+@media (max-width:600px) {
+    .twocol{
+        flex-direction: column;
+    }
+    top ul     { display: none; }
+    top active { display: inline-block; }
+    
+}
+
+/* !!! Begin File contact.css !!! */
+
+/* Contact Box */
+#contact {
+    z-index: 1;
+    position: fixed;
+    bottom: 0em;
+    left: 0;
+    width: 2em;
+    background-color: #fff;
+
+}
+
+#contact img{
+  width:2em;
+  height:2em;
+}
+
+/* !!! Begin File pdf.css !!! */
+
+#pdf{
+    z-index: 10;
+    color: white;
+    background-image: url("./images/cover-alt.jpg");
+}
+
+/* !!! Begin File footer.css !!! */
+
+/* Footer */
+footer{
+    color: white;
+    background-color: #513127;
+    padding: 0em 2em;
+    text-align: center;
 }
