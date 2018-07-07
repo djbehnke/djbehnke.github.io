@@ -11,8 +11,8 @@
 <body>
   <!-- Title and Nav section -->
   <div style="topnav" class="topnav" id="myTopnav">
-    <a href="index.html">Home</a>
     <a href="" id="active">Resume</a>
+    <a href="index.html">Home</a>
     <a href="contact.html">Contact</a>
     <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
     <div id="header">Daniel Jacob Behnke</div>
@@ -49,13 +49,19 @@
     }
   </script>
   <!-- Splash Section -->
-  <div id="pdf">
-    <object data="resume.pdf" type="application/pdf" width="100%" height="850px">
-      <p>It appears you don't have a PDF plugin for this browser. No biggie... you can
-        <a href="resume.pdf">click here to download the PDF file.</a>
-      </p>
-    </object>
+
+  <div id="splash">
+    <div id="pdf">
+      <object data="resume.pdf" type="application/pdf" width="80%" height="850px">
+        <p>It appears you don't have a PDF plugin for this browser. No biggie... you can
+          <a href="resume.pdf">click here to download the PDF file.</a>
+        </p>
+      </object>
+    </div>
   </div>
+
+  <!--PDF-->
+
   <!-- Contact Box -->
   <div id="contact">
     <a href="mailto:djbehnke.mail@gmail.com">

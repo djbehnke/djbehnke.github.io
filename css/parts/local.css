@@ -3,3 +3,12 @@
     padding: 3em;
     background-color: #FFF;
 }
+
+#local img{
+    width: auto;
+    height: 3em;
+}
+
+#local a{
+    text-decoration: none;
+}

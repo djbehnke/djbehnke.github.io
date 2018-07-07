@@ -1,5 +1,5 @@
 /*This file was created automatically with the makeMaster.py script.
-Time of creation: 2018-07-06 20:46:44.817789*/
+Time of creation: 2018-07-06 21:16:38.199685*/
 
 /* !!! Begin File calltoaction.css !!! */
 
@@ -45,6 +45,15 @@ Time of creation: 2018-07-06 20:46:44.817789*/
     background-color: #FFF;
 }
 
+#local img{
+    width: auto;
+    height: 3em;
+}
+
+#local a{
+    text-decoration: none;
+}
+
 /* !!! Begin File splash.css !!! */
 
 /* Splash Image */
@@ -52,12 +61,13 @@ Time of creation: 2018-07-06 20:46:44.817789*/
     z-index: -1;
     padding: 8em 0;
     color: white;
-    background-image: url("images/cover-alt.jpg");
-    /**background-position: relative;
+    background-image: url("../images/cover.jpg");
+    background-position: relative;
     position: relative;
     background-repeat: repeat;
     background-attachment: fixed;
-    background-size: 200% 200%;**/
+    background-size: 200% 200%;
+    text-align: center;
 }
 
 #lastmeeting a{
