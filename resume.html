@@ -18,56 +18,9 @@
     <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
     <div id="header">Daniel Jacob Behnke</div>
   </div>
-  <script>
-    $('a').embedly({
-      display: function (obj) {
-        // Overwrite the default display.
-        if (obj.type === 'video' || obj.type === 'rich') {
-          // Figure out the percent ratio for the padding. This is (height/width) * 100
-          var ratio = ((obj.height / obj.width) * 99).toPrecision(4) + '%'
+    <!-- Splash Section -->
 
-          // Wrap the embed in a responsive object div. See the CSS here!
-          var div = $('<div class="pdf">').css({
-            paddingBottom: ratio
-          });
-
-          // Add the embed to the div.
-          div.html(obj.html);
-
-          // Replace the element with the div.
-          $(this).replaceWith(div);
-        }
-      }
-    });
-
-    function myFunction() {
-      var x = document.getElementById("myTopnav");
-      if (x.className === "topnav") {
-        x.className += " responsive";
-      } else {
-        x.className = "topnav";
-      }
-    }
-  </script>
-  <!-- Splash Section -->
-
-  <div id="splash">
-    <div id="pdf">
-      <object data="./resume.pdf" type="application/pdf" width="80%" height="850px">
-        <p>It appears you don't have a PDF plugin for this browser. No biggie you can...
-        </p>
-      </object>
-      </br>
-
-    </div>
-
-  </div>
-
-  <div id="local">
-    <center>
-      <a href="./resume.pdf">click here to download the PDF file.</a>
-    </center>
-  </div>
+  https://registry.jsonresume.org/djbehnke?theme=class
 
   <!-- Contact Box -->
   <div id="contact">
