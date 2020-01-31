@@ -6,15 +6,15 @@
 		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 	</head>
 	<body>
-
-		<div id ="hover-title">
-			<span v-bind:title="message">
-				Hover here.
-			</span>
+		<div id="app">
+				<ol>
+					<nav-button
+						v-for="page in siteList"
+						v-bind:nav="page"
+						v-bind:key="page.id"></nav-button>
+				</ol>
 		</div>
-
 		
-
 		<script src="index.js"></script>
 	</body>
 </html>
