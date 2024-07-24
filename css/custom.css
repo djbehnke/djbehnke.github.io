@@ -66,6 +66,8 @@ button {
 
 #banner {
     background-size: 100%;
+    background-color:#121a2e;
+    background-repeat: no-repeat;
 }
 
 /********** banner **********/
@@ -74,7 +76,7 @@ button {
 }
 
 #banner header img {
-    max-width: 500px;
+    max-width: 300px;
 }
 
 /********** feature (skew background) **********/
