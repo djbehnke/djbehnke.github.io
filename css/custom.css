@@ -83,8 +83,8 @@ button {
 .feature img {
     width: auto;
     height: auto;
-    max-width: 480px;
-    max-height: 480px;
+    max-width: 75%;
+    max-height: 15%;
 }
 
 #feature-first {
